@@ -11,13 +11,15 @@ carslinks = {}
 
 finalcars = []
 
-for x in range(1,5):
+car_id = 0
+
+for x in range(1,105):
 
     headers = {
         'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36'
     }
 
-    r = requests.get(f'https://cars.av.by/filter?brands[0][brand]=1485&price_currency=2&page={x}')
+    r = requests.get(f'https://cars.av.by/filter?brands[0][brand]=989&price_currency=2&page={x}')
 
     soup = BeautifulSoup(r.content, 'html.parser')
     carslist = soup.find_all('div', class_='listing-item')
@@ -26,42 +28,61 @@ for x in range(1,5):
 
         ''' Find car image '''
         photo = item.find('div', class_='listing-item__photo')
-        image = photo.find('img')['data-src']
+        try:
+            image = photo.find('img')['data-src']
+        except:
+            image = "none"
 
         ''' Find car title '''
         title = item.find('span', class_='link-text').text
 
         ''' Find car params '''
         params = item.find('div', class_='listing-item__params').text
-        # Miles
+
+        ''' Miles '''
         mile_param = re.compile(r"(\d{1}\s\d{3})|(\d{2}\s\d{3})|(\d{3}\s\d{3})")
         miles = mile_param.search(params)
+
         try:
             fmiles = miles.group()
+            fmiles = fmiles.split()
+            
+            for x in fmiles:
+                x = int(x)
+
+            fmiles = fmiles[0] + fmiles[1]
+            fmiles = int(fmiles)
+            # print(type(fmiles))
         except:
-            fmiles = ''
-        # Year
+            fmiles = 0
+          
+        ''' Year '''
         year_param = re.compile(r"(\d{4})")
         year =  year_param.search(params)
         try:
             fyear = year.group()
+            # print(type(fyear))
         except:
             fyear = ''
-        # Volume
+
+        ''' Volume '''
         volume_param = re.compile(r"(\d{1}[.]\d{1})")
         volume = volume_param.search(params)
         try:
             fvolume = volume.group()
+            fvolume = float(fvolume)
         except:
-            fvolume = ''
-        # Transmision
+            fvolume = 0.0
+
+        ''' Transmision '''
         transmision_param = re.compile(r"(автомат|механика)")
         transmision = transmision_param.search(params)
         try:
             ftransmision = transmision.group()
         except:
             ftransmision = ''
-        # Engine
+
+        ''' Engine '''
         engine_param = re.compile(r"(бензин|дизель)")
         engine = engine_param.search(params)
         # print(engine.group())
@@ -83,8 +104,10 @@ for x in range(1,5):
                 x = int(x)
 
             price_ru = price_ru[0] + price_ru[1]
+            price_ru = int(price_ru)
+            # print(type(price_ru))
         except:
-            price_ru = "error"
+            price_ru = 0
 
         ''' Find car price by usd '''
         price_usd = item.find('div', class_='listing-item__priceusd').text
@@ -96,10 +119,15 @@ for x in range(1,5):
             for x in price_usd:
                 x = int(x)
             price_usd = price_usd[0] + price_usd[1]
+            price_usd = int(price_usd)
         except:
-            price_usd = "error"
+            price_usd = 0
+
+        
+        car_id += 1
     
         carslinks = {
+            "id": car_id,
             'image': image,
             'title': title,
             'params': params,
@@ -115,7 +143,7 @@ for x in range(1,5):
 
         finalcars.append(carslinks)
 
-# print(len(finalcars))
+print(len(finalcars))
 
 
 cars = "cars.json"
