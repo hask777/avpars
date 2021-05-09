@@ -1,219 +1,204 @@
 [
-    {
-        "name": -1,
-        "cars_count": -1
-    },
+    {},
     {
         "name": "Acura",
-        "cars_count": 101
+        "cars_count": 97
     },
     {
         "name": "Alfa Romeo",
         "cars_count": 234
     },
     {
-        "name": "Asia",
-        "cars_count": 2
+        "name": "Alfa Romeo",
+        "cars_count": 234
     },
     {
         "name": "Audi",
-        "cars_count": 3999
+        "cars_count": 3955
     },
     {
-        "name": "Bentley",
-        "cars_count": 15
+        "name": "Audi",
+        "cars_count": 3955
     },
     {
         "name": "BMW",
-        "cars_count": 4392
-    },
-    {
-        "name": "Brilliance",
-        "cars_count": 1
+        "cars_count": 4400
     },
     {
         "name": "Buick",
-        "cars_count": 106
+        "cars_count": 95
     },
     {
-        "name": "BYD",
-        "cars_count": 4
+        "name": "Buick",
+        "cars_count": 95
     },
     {
         "name": "Cadillac",
-        "cars_count": 81
+        "cars_count": 73
     },
     {
-        "name": "Changan",
-        "cars_count": 7
+        "name": "Cadillac",
+        "cars_count": 73
     },
     {
         "name": "Chery",
-        "cars_count": 64
+        "cars_count": 65
     },
     {
         "name": "Chevrolet",
-        "cars_count": 727
+        "cars_count": 698
     },
     {
         "name": "Chrysler",
-        "cars_count": 633
+        "cars_count": 612
     },
     {
         "name": "Citroen",
-        "cars_count": 2064
+        "cars_count": 2054
     },
     {
         "name": "Dacia",
-        "cars_count": 69
+        "cars_count": 68
     },
     {
         "name": "Daewoo",
-        "cars_count": 314
+        "cars_count": 324
     },
     {
         "name": "Daihatsu",
-        "cars_count": 31
+        "cars_count": 30
     },
     {
-        "name": "Datsun",
-        "cars_count": 12
-    },
-    {
-        "name": "Derways",
-        "cars_count": 2
+        "name": "Daihatsu",
+        "cars_count": 30
     },
     {
         "name": "Dodge",
-        "cars_count": 446
+        "cars_count": 435
     },
     {
-        "name": "Dong Feng",
-        "cars_count": 3
-    },
-    {
-        "name": "FAW",
-        "cars_count": 1
+        "name": "Dodge",
+        "cars_count": 435
     },
     {
         "name": "Fiat",
-        "cars_count": 964
+        "cars_count": 965
     },
     {
         "name": "Ford",
-        "cars_count": 3068
+        "cars_count": 2985
     },
     {
-        "name": "FSO",
-        "cars_count": 2
+        "name": "Ford",
+        "cars_count": 2985
     },
     {
         "name": "Geely",
-        "cars_count": 171
+        "cars_count": 174
     },
     {
         "name": "GMC",
-        "cars_count": 26
+        "cars_count": 29
     },
     {
         "name": "Great Wall",
-        "cars_count": 45
+        "cars_count": 51
     },
     {
-        "name": "Hafei",
-        "cars_count": 1
+        "name": "Great Wall",
+        "cars_count": 51
     },
     {
-        "name": "Haima",
-        "cars_count": 1
+        "name": "Great Wall",
+        "cars_count": 51
     },
     {
-        "name": "Haval",
-        "cars_count": 9
+        "name": "Great Wall",
+        "cars_count": 51
     },
     {
         "name": "Honda",
-        "cars_count": 1035
+        "cars_count": 1002
     },
     {
-        "name": "Hummer",
-        "cars_count": 13
+        "name": "Honda",
+        "cars_count": 1002
     },
     {
         "name": "Hyundai",
-        "cars_count": 1467
+        "cars_count": 1465
     },
     {
         "name": "Infiniti",
-        "cars_count": 271
+        "cars_count": 268
     },
     {
-        "name": "Iran Khodro",
-        "cars_count": 8
+        "name": "Infiniti",
+        "cars_count": 268
     },
     {
-        "name": "Isuzu",
-        "cars_count": 22
+        "name": "Infiniti",
+        "cars_count": 268
     },
     {
-        "name": "JAC",
-        "cars_count": 5
+        "name": "Infiniti",
+        "cars_count": 268
     },
     {
         "name": "Jaguar",
-        "cars_count": 100
+        "cars_count": 96
     },
     {
         "name": "Jeep",
-        "cars_count": 164
+        "cars_count": 166
     },
     {
         "name": "Kia",
-        "cars_count": 1321
+        "cars_count": 1300
     },
     {
         "name": "Lada (ВАЗ)",
-        "cars_count": 1012
+        "cars_count": 995
     },
     {
         "name": "Lancia",
-        "cars_count": 105
+        "cars_count": 102
     },
     {
         "name": "Land Rover",
-        "cars_count": 374
+        "cars_count": 352
     },
     {
         "name": "Lexus",
-        "cars_count": 437
+        "cars_count": 423
     },
     {
         "name": "Lifan",
-        "cars_count": 77
+        "cars_count": 76
     },
     {
         "name": "Lincoln",
-        "cars_count": 43
+        "cars_count": 39
     },
     {
-        "name": "Maserati",
-        "cars_count": 6
+        "name": "Lincoln",
+        "cars_count": 39
     },
     {
         "name": "Mazda",
-        "cars_count": 1713
+        "cars_count": 1682
     },
     {
         "name": "Mercedes-Benz",
-        "cars_count": 3341
+        "cars_count": 3278
     },
     {
-        "name": "Mercury",
-        "cars_count": 12
+        "name": "Mercedes-Benz",
+        "cars_count": 3278
     },
     {
-        "name": "MG",
-        "cars_count": 11
+        "name": "Mercedes-Benz",
+        "cars_count": 3278
     },
     {
         "name": "MINI",
@@ -221,71 +206,71 @@
     },
     {
         "name": "Mitsubishi",
-        "cars_count": 1182
+        "cars_count": 1166
     },
     {
         "name": "Nissan",
-        "cars_count": 2049
+        "cars_count": 2037
     },
     {
         "name": "Opel",
-        "cars_count": 3878
+        "cars_count": 3885
     },
     {
         "name": "Peugeot",
-        "cars_count": 2604
+        "cars_count": 2590
     },
     {
-        "name": "Plymouth",
-        "cars_count": 15
+        "name": "Peugeot",
+        "cars_count": 2590
     },
     {
         "name": "Pontiac",
-        "cars_count": 45
+        "cars_count": 46
     },
     {
         "name": "Porsche",
-        "cars_count": 169
+        "cars_count": 158
     },
     {
-        "name": "Proton",
-        "cars_count": 25
+        "name": "Porsche",
+        "cars_count": 158
     },
     {
-        "name": "Ravon",
-        "cars_count": 9
+        "name": "Porsche",
+        "cars_count": 158
     },
     {
         "name": "Renault",
-        "cars_count": 3355
+        "cars_count": 3371
     },
     {
         "name": "Rover",
-        "cars_count": 301
+        "cars_count": 321
     },
     {
         "name": "Saab",
-        "cars_count": 126
+        "cars_count": 124
     },
     {
-        "name": "Saipa",
-        "cars_count": 1
+        "name": "Saab",
+        "cars_count": 124
     },
     {
-        "name": "Santana",
-        "cars_count": 1
+        "name": "Saab",
+        "cars_count": 124
     },
     {
-        "name": "Saturn",
-        "cars_count": 10
+        "name": "Saab",
+        "cars_count": 124
     },
     {
-        "name": "Scion",
-        "cars_count": 7
+        "name": "Saab",
+        "cars_count": 124
     },
     {
         "name": "SEAT",
-        "cars_count": 399
+        "cars_count": 400
     },
     {
         "name": "Skoda",
@@ -293,90 +278,90 @@
     },
     {
         "name": "Smart",
-        "cars_count": 25
+        "cars_count": 27
     },
     {
         "name": "SsangYong",
-        "cars_count": 135
+        "cars_count": 137
     },
     {
         "name": "Subaru",
-        "cars_count": 333
+        "cars_count": 336
     },
     {
         "name": "Suzuki",
-        "cars_count": 299
+        "cars_count": 301
     },
     {
-        "name": "Tata",
-        "cars_count": 1
+        "name": "Suzuki",
+        "cars_count": 301
     },
     {
         "name": "Tesla",
-        "cars_count": 86
+        "cars_count": 93
     },
     {
         "name": "Toyota",
-        "cars_count": 1925
+        "cars_count": 1963
     },
     {
         "name": "Volkswagen",
-        "cars_count": 6611
+        "cars_count": 6585
     },
     {
         "name": "Volvo",
-        "cars_count": 1176
+        "cars_count": 1136
     },
     {
-        "name": "Vortex",
-        "cars_count": 5
+        "name": "Volvo",
+        "cars_count": 1136
     },
     {
-        "name": "Wartburg",
-        "cars_count": 6
+        "name": "Volvo",
+        "cars_count": 1136
     },
     {
-        "name": "Xpeng",
-        "cars_count": 1
+        "name": "Volvo",
+        "cars_count": 1136
     },
     {
-        "name": "Zotye",
-        "cars_count": 8
+        "name": "Volvo",
+        "cars_count": 1136
     },
     {
         "name": "ГАЗ",
-        "cars_count": 199
+        "cars_count": 198
     },
     {
         "name": "ЗАЗ",
-        "cars_count": 44
+        "cars_count": 52
     },
     {
-        "name": "ИЖ",
-        "cars_count": 12
+        "name": "ЗАЗ",
+        "cars_count": 52
     },
     {
-        "name": "ЛуАЗ",
-        "cars_count": 20
+        "name": "ЗАЗ",
+        "cars_count": 52
     },
     {
         "name": "Москвич",
-        "cars_count": 65
+        "cars_count": 69
     },
     {
-        "name": "ТагАЗ",
-        "cars_count": 1
+        "name": "Москвич",
+        "cars_count": 69
     },
     {
         "name": "УАЗ",
-        "cars_count": 127
+        "cars_count": 125
     },
     {
         "name": "Эксклюзив",
-        "cars_count": 48
+        "cars_count": 49
     },
     {
-        "name": -1,
-        "cars_count": -1
+        "name": "Эксклюзив",
+        "cars_count": 49
     }
 ]
