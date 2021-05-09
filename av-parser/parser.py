@@ -57,7 +57,7 @@ for k, v in brands_code_list.items():
     finalcars = []
     car_id = 0
 
-    for x in range(1,105):
+    for x in range(1,400):
 
         headers = {
             'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36'
