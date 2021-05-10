@@ -31,10 +31,11 @@ for brand in brandlist:
 
     print(cars_count)
 
-    brands_dict = {
-        'name': name,
-        'cars_count': int(cars_count)
-    }
+    if int(cars_count) > 25:
+        brands_dict = {
+            'name': name,
+            'cars_count': int(cars_count)
+        }
 
     list_brands.append(brands_dict)
 
