@@ -1,5 +1,4 @@
 [
-    {},
     {
         "name": "Acura",
         "cars_count": 96
@@ -14,15 +13,15 @@
     },
     {
         "name": "Audi",
-        "cars_count": 3976
+        "cars_count": 3977
     },
     {
         "name": "Audi",
-        "cars_count": 3976
+        "cars_count": 3977
     },
     {
         "name": "BMW",
-        "cars_count": 4412
+        "cars_count": 4414
     },
     {
         "name": "Buick",
@@ -46,7 +45,7 @@
     },
     {
         "name": "Chevrolet",
-        "cars_count": 707
+        "cars_count": 708
     },
     {
         "name": "Chrysler",
@@ -126,7 +125,7 @@
     },
     {
         "name": "Hyundai",
-        "cars_count": 1469
+        "cars_count": 1470
     },
     {
         "name": "Infiniti",
@@ -158,7 +157,7 @@
     },
     {
         "name": "Lada (ВАЗ)",
-        "cars_count": 1005
+        "cars_count": 1006
     },
     {
         "name": "Lancia",
@@ -186,7 +185,7 @@
     },
     {
         "name": "Mazda",
-        "cars_count": 1698
+        "cars_count": 1699
     },
     {
         "name": "Mercedes-Benz",
@@ -218,15 +217,15 @@
     },
     {
         "name": "Opel",
-        "cars_count": 3906
+        "cars_count": 3905
     },
     {
         "name": "Peugeot",
-        "cars_count": 2610
+        "cars_count": 2611
     },
     {
         "name": "Peugeot",
-        "cars_count": 2610
+        "cars_count": 2611
     },
     {
         "name": "Pontiac",
@@ -294,11 +293,11 @@
     },
     {
         "name": "Suzuki",
-        "cars_count": 294
+        "cars_count": 293
     },
     {
         "name": "Suzuki",
-        "cars_count": 294
+        "cars_count": 293
     },
     {
         "name": "Tesla",
@@ -306,7 +305,7 @@
     },
     {
         "name": "Toyota",
-        "cars_count": 1965
+        "cars_count": 1964
     },
     {
         "name": "Volkswagen",
@@ -314,58 +313,22 @@
     },
     {
         "name": "Volvo",
-        "cars_count": 1140
+        "cars_count": 1141
     },
     {
         "name": "Volvo",
-        "cars_count": 1140
+        "cars_count": 1141
     },
     {
         "name": "Volvo",
-        "cars_count": 1140
+        "cars_count": 1141
     },
     {
         "name": "Volvo",
-        "cars_count": 1140
+        "cars_count": 1141
     },
     {
         "name": "Volvo",
-        "cars_count": 1140
-    },
-    {
-        "name": "ГАЗ",
-        "cars_count": 200
-    },
-    {
-        "name": "ЗАЗ",
-        "cars_count": 51
-    },
-    {
-        "name": "ЗАЗ",
-        "cars_count": 51
-    },
-    {
-        "name": "ЗАЗ",
-        "cars_count": 51
-    },
-    {
-        "name": "Москвич",
-        "cars_count": 69
-    },
-    {
-        "name": "Москвич",
-        "cars_count": 69
-    },
-    {
-        "name": "УАЗ",
-        "cars_count": 128
-    },
-    {
-        "name": "Эксклюзив",
-        "cars_count": 47
-    },
-    {
-        "name": "Эксклюзив",
-        "cars_count": 47
+        "cars_count": 1141
     }
 ]

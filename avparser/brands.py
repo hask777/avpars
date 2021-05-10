@@ -29,7 +29,7 @@ for brand in brandlist:
     except:
         cars_count = brand.find('small')
 
-    print(cars_count)
+    # print(cars_count)
 
     if int(cars_count) > 25:
         brands_dict = {
@@ -38,10 +38,14 @@ for brand in brandlist:
         }
 
     list_brands.append(brands_dict)
+    # list_brands = list_brands.pop(0)
+    
 
     print(list_brands)
 
-barnds = "barnds.json"
+del list_brands[0]
+
+barnds = "brands.json"
 with open(barnds, 'w', encoding='utf-8') as json_file:
     json.dump(list_brands, json_file, ensure_ascii = False, indent =4)
 
