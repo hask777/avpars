@@ -33,7 +33,7 @@ for brand in brandlist:
 
     if int(cars_count) > 25:
         brands_dict = {
-            'name': name,
+            'name': name.lower(),
             'cars_count': int(cars_count)
         }
 
