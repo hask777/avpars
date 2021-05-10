@@ -326,41 +326,5 @@
     {
         "name": "volvo",
         "cars_count": 1140
-    },
-    {
-        "name": "газ",
-        "cars_count": 200
-    },
-    {
-        "name": "заз",
-        "cars_count": 51
-    },
-    {
-        "name": "заз",
-        "cars_count": 51
-    },
-    {
-        "name": "заз",
-        "cars_count": 51
-    },
-    {
-        "name": "москвич",
-        "cars_count": 69
-    },
-    {
-        "name": "москвич",
-        "cars_count": 69
-    },
-    {
-        "name": "уаз",
-        "cars_count": 128
-    },
-    {
-        "name": "эксклюзив",
-        "cars_count": 47
-    },
-    {
-        "name": "эксклюзив",
-        "cars_count": 47
     }
 ]
