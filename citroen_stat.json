@@ -1,0 +1,134 @@
+[
+    {
+        "car_year": 2020,
+        "car_count": 1
+    },
+    {
+        "car_year": 2019,
+        "car_count": 4
+    },
+    {
+        "car_year": 2018,
+        "car_count": 3
+    },
+    {
+        "car_year": 2017,
+        "car_count": 36
+    },
+    {
+        "car_year": 2016,
+        "car_count": 46
+    },
+    {
+        "car_year": 2015,
+        "car_count": 43
+    },
+    {
+        "car_year": 2014,
+        "car_count": 32
+    },
+    {
+        "car_year": 2013,
+        "car_count": 42
+    },
+    {
+        "car_year": 2012,
+        "car_count": 55
+    },
+    {
+        "car_year": 2011,
+        "car_count": 67
+    },
+    {
+        "car_year": 2010,
+        "car_count": 124
+    },
+    {
+        "car_year": 2009,
+        "car_count": 95
+    },
+    {
+        "car_year": 2008,
+        "car_count": 96
+    },
+    {
+        "car_year": 2007,
+        "car_count": 49
+    },
+    {
+        "car_year": 2006,
+        "car_count": 54
+    },
+    {
+        "car_year": 2005,
+        "car_count": 63
+    },
+    {
+        "car_year": 2004,
+        "car_count": 80
+    },
+    {
+        "car_year": 2003,
+        "car_count": 100
+    },
+    {
+        "car_year": 2002,
+        "car_count": 128
+    },
+    {
+        "car_year": 2001,
+        "car_count": 221
+    },
+    {
+        "car_year": 2000,
+        "car_count": 128
+    },
+    {
+        "car_year": 1999,
+        "car_count": 153
+    },
+    {
+        "car_year": 1998,
+        "car_count": 163
+    },
+    {
+        "car_year": 1997,
+        "car_count": 110
+    },
+    {
+        "car_year": 1996,
+        "car_count": 67
+    },
+    {
+        "car_year": 1995,
+        "car_count": 53
+    },
+    {
+        "car_year": 1994,
+        "car_count": 20
+    },
+    {
+        "car_year": 1993,
+        "car_count": 16
+    },
+    {
+        "car_year": 1992,
+        "car_count": 2
+    },
+    {
+        "car_year": 1991,
+        "car_count": 3
+    },
+    {
+        "car_year": 1990,
+        "car_count": 1
+    },
+    {
+        "car_year": 1989,
+        "car_count": 2
+    },
+    {
+        "car_year": 1981,
+        "car_count": 1
+    }
+]
