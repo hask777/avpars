@@ -1,0 +1,150 @@
+[
+    {
+        "car_volume": 6.3,
+        "car_count": 11
+    },
+    {
+        "car_volume": 6.0,
+        "car_count": 7
+    },
+    {
+        "car_volume": 5.8,
+        "car_count": 1
+    },
+    {
+        "car_volume": 5.6,
+        "car_count": 2
+    },
+    {
+        "car_volume": 5.5,
+        "car_count": 74
+    },
+    {
+        "car_volume": 5.4,
+        "car_count": 2
+    },
+    {
+        "car_volume": 5.0,
+        "car_count": 83
+    },
+    {
+        "car_volume": 4.8,
+        "car_count": 1
+    },
+    {
+        "car_volume": 4.7,
+        "car_count": 50
+    },
+    {
+        "car_volume": 4.5,
+        "car_count": 3
+    },
+    {
+        "car_volume": 4.3,
+        "car_count": 14
+    },
+    {
+        "car_volume": 4.2,
+        "car_count": 9
+    },
+    {
+        "car_volume": 4.0,
+        "car_count": 33
+    },
+    {
+        "car_volume": 3.7,
+        "car_count": 7
+    },
+    {
+        "car_volume": 3.5,
+        "car_count": 237
+    },
+    {
+        "car_volume": 3.2,
+        "car_count": 170
+    },
+    {
+        "car_volume": 3.0,
+        "car_count": 286
+    },
+    {
+        "car_volume": 2.9,
+        "car_count": 10
+    },
+    {
+        "car_volume": 2.8,
+        "car_count": 18
+    },
+    {
+        "car_volume": 2.7,
+        "car_count": 72
+    },
+    {
+        "car_volume": 2.6,
+        "car_count": 28
+    },
+    {
+        "car_volume": 2.5,
+        "car_count": 63
+    },
+    {
+        "car_volume": 2.4,
+        "car_count": 30
+    },
+    {
+        "car_volume": 2.3,
+        "car_count": 91
+    },
+    {
+        "car_volume": 2.2,
+        "car_count": 482
+    },
+    {
+        "car_volume": 2.1,
+        "car_count": 45
+    },
+    {
+        "car_volume": 2.0,
+        "car_count": 343
+    },
+    {
+        "car_volume": 1.9,
+        "car_count": 11
+    },
+    {
+        "car_volume": 1.8,
+        "car_count": 183
+    },
+    {
+        "car_volume": 1.7000000000000002,
+        "car_count": 60
+    },
+    {
+        "car_volume": 1.6,
+        "car_count": 101
+    },
+    {
+        "car_volume": 1.5,
+        "car_count": 38
+    },
+    {
+        "car_volume": 1.4,
+        "car_count": 22
+    },
+    {
+        "car_volume": 1.3,
+        "car_count": 8
+    },
+    {
+        "car_volume": 0.4,
+        "car_count": 1
+    },
+    {
+        "car_volume": 0.2,
+        "car_count": 2
+    },
+    {
+        "car_volume": 0.0,
+        "car_count": 2
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "car_volume": 5.6,
+        "car_count": 16
+    },
+    {
+        "car_volume": 5.0,
+        "car_count": 5
+    },
+    {
+        "car_volume": 4.5,
+        "car_count": 24
+    },
+    {
+        "car_volume": 3.7,
+        "car_count": 20
+    },
+    {
+        "car_volume": 3.5,
+        "car_count": 149
+    },
+    {
+        "car_volume": 3.3,
+        "car_count": 4
+    },
+    {
+        "car_volume": 3.0,
+        "car_count": 15
+    },
+    {
+        "car_volume": 2.5,
+        "car_count": 9
+    },
+    {
+        "car_volume": 2.2,
+        "car_count": 4
+    },
+    {
+        "car_volume": 2.1,
+        "car_count": 2
+    },
+    {
+        "car_volume": 2.0,
+        "car_count": 10
+    },
+    {
+        "car_volume": 1.5,
+        "car_count": 9
+    }
+]

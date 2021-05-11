@@ -1,0 +1,94 @@
+[
+    {
+        "car_volume": 5.0,
+        "car_count": 1
+    },
+    {
+        "car_volume": 3.8,
+        "car_count": 6
+    },
+    {
+        "car_volume": 3.5,
+        "car_count": 6
+    },
+    {
+        "car_volume": 3.3,
+        "car_count": 15
+    },
+    {
+        "car_volume": 3.0,
+        "car_count": 13
+    },
+    {
+        "car_volume": 2.9,
+        "car_count": 40
+    },
+    {
+        "car_volume": 2.7,
+        "car_count": 42
+    },
+    {
+        "car_volume": 2.5,
+        "car_count": 88
+    },
+    {
+        "car_volume": 2.4,
+        "car_count": 135
+    },
+    {
+        "car_volume": 2.2,
+        "car_count": 129
+    },
+    {
+        "car_volume": 2.0,
+        "car_count": 436
+    },
+    {
+        "car_volume": 1.9,
+        "car_count": 7
+    },
+    {
+        "car_volume": 1.8,
+        "car_count": 15
+    },
+    {
+        "car_volume": 1.7000000000000002,
+        "car_count": 12
+    },
+    {
+        "car_volume": 1.6,
+        "car_count": 276
+    },
+    {
+        "car_volume": 1.5,
+        "car_count": 78
+    },
+    {
+        "car_volume": 1.4,
+        "car_count": 83
+    },
+    {
+        "car_volume": 1.3,
+        "car_count": 43
+    },
+    {
+        "car_volume": 1.2,
+        "car_count": 7
+    },
+    {
+        "car_volume": 1.1,
+        "car_count": 18
+    },
+    {
+        "car_volume": 1.0,
+        "car_count": 12
+    },
+    {
+        "car_volume": 0.2,
+        "car_count": 1
+    },
+    {
+        "car_volume": 0.0,
+        "car_count": 3
+    }
+]

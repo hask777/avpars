@@ -1,0 +1,66 @@
+[
+    {
+        "car_volume": 5.7,
+        "car_count": 15
+    },
+    {
+        "car_volume": 5.0,
+        "car_count": 11
+    },
+    {
+        "car_volume": 4.7,
+        "car_count": 7
+    },
+    {
+        "car_volume": 4.6,
+        "car_count": 48
+    },
+    {
+        "car_volume": 4.5,
+        "car_count": 3
+    },
+    {
+        "car_volume": 4.3,
+        "car_count": 9
+    },
+    {
+        "car_volume": 4.0,
+        "car_count": 3
+    },
+    {
+        "car_volume": 3.5,
+        "car_count": 98
+    },
+    {
+        "car_volume": 3.3,
+        "car_count": 55
+    },
+    {
+        "car_volume": 3.0,
+        "car_count": 51
+    },
+    {
+        "car_volume": 2.7,
+        "car_count": 3
+    },
+    {
+        "car_volume": 2.5,
+        "car_count": 52
+    },
+    {
+        "car_volume": 2.4,
+        "car_count": 1
+    },
+    {
+        "car_volume": 2.2,
+        "car_count": 4
+    },
+    {
+        "car_volume": 2.0,
+        "car_count": 54
+    },
+    {
+        "car_volume": 1.8,
+        "car_count": 11
+    }
+]

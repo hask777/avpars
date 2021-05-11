@@ -1,0 +1,122 @@
+[
+    {
+        "car_volume": 6.0,
+        "car_count": 2
+    },
+    {
+        "car_volume": 5.0,
+        "car_count": 19
+    },
+    {
+        "car_volume": 4.8,
+        "car_count": 36
+    },
+    {
+        "car_volume": 4.6,
+        "car_count": 1
+    },
+    {
+        "car_volume": 4.5,
+        "car_count": 8
+    },
+    {
+        "car_volume": 4.4,
+        "car_count": 158
+    },
+    {
+        "car_volume": 4.0,
+        "car_count": 48
+    },
+    {
+        "car_volume": 3.6,
+        "car_count": 6
+    },
+    {
+        "car_volume": 3.5,
+        "car_count": 77
+    },
+    {
+        "car_volume": 3.2,
+        "car_count": 2
+    },
+    {
+        "car_volume": 3.1,
+        "car_count": 1
+    },
+    {
+        "car_volume": 3.0,
+        "car_count": 737
+    },
+    {
+        "car_volume": 2.9,
+        "car_count": 2
+    },
+    {
+        "car_volume": 2.8,
+        "car_count": 58
+    },
+    {
+        "car_volume": 2.7,
+        "car_count": 1
+    },
+    {
+        "car_volume": 2.6,
+        "car_count": 1
+    },
+    {
+        "car_volume": 2.5,
+        "car_count": 398
+    },
+    {
+        "car_volume": 2.4,
+        "car_count": 12
+    },
+    {
+        "car_volume": 2.3,
+        "car_count": 17
+    },
+    {
+        "car_volume": 2.2,
+        "car_count": 30
+    },
+    {
+        "car_volume": 2.0,
+        "car_count": 662
+    },
+    {
+        "car_volume": 1.9,
+        "car_count": 31
+    },
+    {
+        "car_volume": 1.8,
+        "car_count": 109
+    },
+    {
+        "car_volume": 1.7000000000000002,
+        "car_count": 2
+    },
+    {
+        "car_volume": 1.6,
+        "car_count": 78
+    },
+    {
+        "car_volume": 1.5,
+        "car_count": 51
+    },
+    {
+        "car_volume": 0.8,
+        "car_count": 1
+    },
+    {
+        "car_volume": 0.7000000000000001,
+        "car_count": 13
+    },
+    {
+        "car_volume": 0.6000000000000001,
+        "car_count": 3
+    },
+    {
+        "car_volume": 0.0,
+        "car_count": 36
+    }
+]
