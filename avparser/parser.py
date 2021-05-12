@@ -196,4 +196,4 @@ for k, v in brands_code_list.items():
         json.dump(finalcars, json_file, ensure_ascii = False, indent =4)
 
 
-    print('file dumped')
+    print('file dumped', json_file)
