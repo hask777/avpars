@@ -20,14 +20,14 @@ brands_dict = {}
 list_brands = []
 
 for item in lis:
-    car_name = item.find('span').text
+    name = item.find('span').text
     # print(name)
 
     cars_count = item.find('small').text
     # print(count)
     if int(cars_count) > 25:
-        brands_dict ={
-            'name': car_name,
+        brands_dict = {
+            'name': name.lower(),
             'cars_count': int(cars_count)
         }
 
