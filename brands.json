@@ -1,330 +1,234 @@
 [
     {
-        "name": "acura",
-        "cars_count": 96
+        "name": "Acura",
+        "count": "93"
     },
     {
-        "name": "alfa romeo",
-        "cars_count": 233
+        "name": "Alfa Romeo",
+        "count": "236"
     },
     {
-        "name": "alfa romeo",
-        "cars_count": 233
+        "name": "Audi",
+        "count": "4013"
     },
     {
-        "name": "audi",
-        "cars_count": 3982
+        "name": "BMW",
+        "count": "4426"
     },
     {
-        "name": "audi",
-        "cars_count": 3982
+        "name": "Buick",
+        "count": "92"
     },
     {
-        "name": "bmw",
-        "cars_count": 4412
+        "name": "Cadillac",
+        "count": "77"
     },
     {
-        "name": "buick",
-        "cars_count": 95
+        "name": "Chery",
+        "count": "63"
     },
     {
-        "name": "buick",
-        "cars_count": 95
+        "name": "Chevrolet",
+        "count": "730"
     },
     {
-        "name": "cadillac",
-        "cars_count": 76
+        "name": "Chrysler",
+        "count": "616"
     },
     {
-        "name": "cadillac",
-        "cars_count": 76
+        "name": "Citroen",
+        "count": "2082"
     },
     {
-        "name": "chery",
-        "cars_count": 61
+        "name": "Dacia",
+        "count": "65"
     },
     {
-        "name": "chevrolet",
-        "cars_count": 709
+        "name": "Daewoo",
+        "count": "330"
     },
     {
-        "name": "chrysler",
-        "cars_count": 606
+        "name": "Daihatsu",
+        "count": "31"
     },
     {
-        "name": "citroen",
-        "cars_count": 2065
+        "name": "Dodge",
+        "count": "443"
     },
     {
-        "name": "dacia",
-        "cars_count": 68
+        "name": "Fiat",
+        "count": "993"
     },
     {
-        "name": "daewoo",
-        "cars_count": 328
+        "name": "Ford",
+        "count": "3041"
     },
     {
-        "name": "daihatsu",
-        "cars_count": 30
+        "name": "Geely",
+        "count": "177"
     },
     {
-        "name": "daihatsu",
-        "cars_count": 30
+        "name": "GMC",
+        "count": "30"
     },
     {
-        "name": "dodge",
-        "cars_count": 429
+        "name": "Great Wall",
+        "count": "52"
     },
     {
-        "name": "dodge",
-        "cars_count": 429
+        "name": "Honda",
+        "count": "1025"
     },
     {
-        "name": "fiat",
-        "cars_count": 979
+        "name": "Hyundai",
+        "count": "1506"
     },
     {
-        "name": "ford",
-        "cars_count": 2996
+        "name": "Infiniti",
+        "count": "270"
     },
     {
-        "name": "ford",
-        "cars_count": 2996
+        "name": "Jaguar",
+        "count": "97"
     },
     {
-        "name": "geely",
-        "cars_count": 174
+        "name": "Jeep",
+        "count": "163"
     },
     {
-        "name": "gmc",
-        "cars_count": 29
+        "name": "Kia",
+        "count": "1338"
     },
     {
-        "name": "great wall",
-        "cars_count": 53
+        "name": "Lada (ВАЗ)",
+        "count": "1020"
     },
     {
-        "name": "great wall",
-        "cars_count": 53
+        "name": "Lancia",
+        "count": "108"
     },
     {
-        "name": "great wall",
-        "cars_count": 53
+        "name": "Land Rover",
+        "count": "357"
     },
     {
-        "name": "great wall",
-        "cars_count": 53
+        "name": "Lexus",
+        "count": "422"
     },
     {
-        "name": "honda",
-        "cars_count": 1008
+        "name": "Lifan",
+        "count": "78"
     },
     {
-        "name": "honda",
-        "cars_count": 1008
+        "name": "Lincoln",
+        "count": "33"
     },
     {
-        "name": "hyundai",
-        "cars_count": 1470
+        "name": "Mazda",
+        "count": "1737"
     },
     {
-        "name": "infiniti",
-        "cars_count": 265
+        "name": "Mercedes-Benz",
+        "count": "3373"
     },
     {
-        "name": "infiniti",
-        "cars_count": 265
+        "name": "MINI",
+        "count": "91"
     },
     {
-        "name": "infiniti",
-        "cars_count": 265
+        "name": "Mitsubishi",
+        "count": "1162"
     },
     {
-        "name": "infiniti",
-        "cars_count": 265
+        "name": "Nissan",
+        "count": "2079"
     },
     {
-        "name": "jaguar",
-        "cars_count": 95
+        "name": "Opel",
+        "count": "4005"
     },
     {
-        "name": "jeep",
-        "cars_count": 164
+        "name": "Peugeot",
+        "count": "2660"
     },
     {
-        "name": "kia",
-        "cars_count": 1321
+        "name": "Pontiac",
+        "count": "46"
     },
     {
-        "name": "lancia",
-        "cars_count": 103
+        "name": "Porsche",
+        "count": "161"
     },
     {
-        "name": "land rover",
-        "cars_count": 349
+        "name": "Proton",
+        "count": "28"
     },
     {
-        "name": "lexus",
-        "cars_count": 425
+        "name": "Renault",
+        "count": "3429"
     },
     {
-        "name": "lifan",
-        "cars_count": 78
+        "name": "Rover",
+        "count": "321"
     },
     {
-        "name": "lincoln",
-        "cars_count": 39
+        "name": "Saab",
+        "count": "133"
     },
     {
-        "name": "lincoln",
-        "cars_count": 39
+        "name": "SEAT",
+        "count": "423"
     },
     {
-        "name": "mazda",
-        "cars_count": 1699
+        "name": "Skoda",
+        "count": "1222"
     },
     {
-        "name": "mercedes-benz",
-        "cars_count": 3297
+        "name": "SsangYong",
+        "count": "137"
     },
     {
-        "name": "mercedes-benz",
-        "cars_count": 3297
+        "name": "Subaru",
+        "count": "348"
     },
     {
-        "name": "mercedes-benz",
-        "cars_count": 3297
+        "name": "Suzuki",
+        "count": "303"
     },
     {
-        "name": "mini",
-        "cars_count": 96
+        "name": "Tesla",
+        "count": "87"
     },
     {
-        "name": "mitsubishi",
-        "cars_count": 1170
+        "name": "Toyota",
+        "count": "1984"
     },
     {
-        "name": "nissan",
-        "cars_count": 2053
+        "name": "Volkswagen",
+        "count": "6748"
     },
     {
-        "name": "nissan",
-        "cars_count": 2053
+        "name": "Volvo",
+        "count": "1144"
     },
     {
-        "name": "opel",
-        "cars_count": 3906
+        "name": "ГАЗ",
+        "count": "208"
     },
     {
-        "name": "peugeot",
-        "cars_count": 2613
+        "name": "ЗАЗ",
+        "count": "55"
     },
     {
-        "name": "peugeot",
-        "cars_count": 2613
+        "name": "Москвич",
+        "count": "70"
     },
     {
-        "name": "pontiac",
-        "cars_count": 43
+        "name": "УАЗ",
+        "count": "131"
     },
     {
-        "name": "porsche",
-        "cars_count": 160
-    },
-    {
-        "name": "porsche",
-        "cars_count": 160
-    },
-    {
-        "name": "porsche",
-        "cars_count": 160
-    },
-    {
-        "name": "renault",
-        "cars_count": 3396
-    },
-    {
-        "name": "rover",
-        "cars_count": 313
-    },
-    {
-        "name": "saab",
-        "cars_count": 126
-    },
-    {
-        "name": "saab",
-        "cars_count": 126
-    },
-    {
-        "name": "saab",
-        "cars_count": 126
-    },
-    {
-        "name": "saab",
-        "cars_count": 126
-    },
-    {
-        "name": "saab",
-        "cars_count": 126
-    },
-    {
-        "name": "seat",
-        "cars_count": 400
-    },
-    {
-        "name": "skoda",
-        "cars_count": 1215
-    },
-    {
-        "name": "skoda",
-        "cars_count": 1215
-    },
-    {
-        "name": "ssangyong",
-        "cars_count": 137
-    },
-    {
-        "name": "subaru",
-        "cars_count": 338
-    },
-    {
-        "name": "suzuki",
-        "cars_count": 293
-    },
-    {
-        "name": "suzuki",
-        "cars_count": 293
-    },
-    {
-        "name": "tesla",
-        "cars_count": 93
-    },
-    {
-        "name": "toyota",
-        "cars_count": 1965
-    },
-    {
-        "name": "volkswagen",
-        "cars_count": 6626
-    },
-    {
-        "name": "volvo",
-        "cars_count": 1140
-    },
-    {
-        "name": "volvo",
-        "cars_count": 1140
-    },
-    {
-        "name": "volvo",
-        "cars_count": 1140
-    },
-    {
-        "name": "volvo",
-        "cars_count": 1140
-    },
-    {
-        "name": "volvo",
-        "cars_count": 1140
+        "name": "Эксклюзив",
+        "count": "47"
     }
 ]
