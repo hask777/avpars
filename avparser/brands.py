@@ -28,7 +28,7 @@ for item in lis:
     if int(cars_count) > 25:
         brands_dict ={
             'name': car_name,
-            'count': cars_count
+            'cars_count': int(cars_count)
         }
 
     # print(brands_dict)
