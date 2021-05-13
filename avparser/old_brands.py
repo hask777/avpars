@@ -13,30 +13,43 @@ r = requests.get(base_url)
 soup = BeautifulSoup(r.content, 'html.parser')
 brandlist = soup.find('ul', class_='brandslist')
 
-lis = soup.find_all('li', class_="brandsitem")
-print(lis)
-
 brands_dict = {}
+
 list_brands = []
 
-for item in lis:
-    name = item.find('span').text
-    # print(name)
+for brand in brandlist:
+    
+    try:
+        name = brand.find('span').text
+    except:
+        name = brand.find('span')
 
-    cars_count = item.find('small').text
-    # print(count)
+    try:
+        cars_count = brand.find('small').text
+    except:
+        cars_count = brand.find('small')
+
+    # print(cars_count)
+
     if int(cars_count) > 25:
         brands_dict = {
             'name': name.lower(),
             'cars_count': int(cars_count)
         }
 
-    # print(brands_dict)
-        list_brands.append(brands_dict)
-print(list_brands)
+    list_brands.append(brands_dict)
+    # list_brands = list_brands.pop(0)
+    
+
+    print(list_brands)
+
+# del list_brands[0]
 
 brands = "brands.json"
 with open(brands, 'w', encoding='utf-8') as json_file:
     json.dump(list_brands, json_file, ensure_ascii = False, indent =4)
 
-print('File dumped!!!')
+
+print("file dumped")
+
+
