@@ -43,10 +43,17 @@ for brand in brandlist:
 
     print(list_brands)
 
+<<<<<<< HEAD
 # del list_brands[0]
 
 brands = "brands.json"
 with open(brands, 'w', encoding='utf-8') as json_file:
+=======
+del list_brands[0]
+
+barnds = "old_brands.json"
+with open(barnds, 'w', encoding='utf-8') as json_file:
+>>>>>>> 3aca936eff1718dfd24ce305ca3440394e373333
     json.dump(list_brands, json_file, ensure_ascii = False, indent =4)
 
 

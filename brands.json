@@ -9,7 +9,11 @@
     },
     {
         "name": "audi",
+<<<<<<< HEAD
         "cars_count": 4012
+=======
+        "cars_count": 4015
+>>>>>>> 3aca936eff1718dfd24ce305ca3440394e373333
     },
     {
         "name": "bmw",
@@ -53,7 +57,11 @@
     },
     {
         "name": "dodge",
+<<<<<<< HEAD
         "cars_count": 444
+=======
+        "cars_count": 443
+>>>>>>> 3aca936eff1718dfd24ce305ca3440394e373333
     },
     {
         "name": "fiat",
@@ -61,7 +69,11 @@
     },
     {
         "name": "ford",
+<<<<<<< HEAD
         "cars_count": 3039
+=======
+        "cars_count": 3040
+>>>>>>> 3aca936eff1718dfd24ce305ca3440394e373333
     },
     {
         "name": "geely",
@@ -77,7 +89,11 @@
     },
     {
         "name": "honda",
+<<<<<<< HEAD
         "cars_count": 1026
+=======
+        "cars_count": 1025
+>>>>>>> 3aca936eff1718dfd24ce305ca3440394e373333
     },
     {
         "name": "hyundai",
@@ -101,7 +117,11 @@
     },
     {
         "name": "lada (ваз)",
+<<<<<<< HEAD
         "cars_count": 1019
+=======
+        "cars_count": 1020
+>>>>>>> 3aca936eff1718dfd24ce305ca3440394e373333
     },
     {
         "name": "lancia",
@@ -113,7 +133,11 @@
     },
     {
         "name": "lexus",
+<<<<<<< HEAD
         "cars_count": 421
+=======
+        "cars_count": 422
+>>>>>>> 3aca936eff1718dfd24ce305ca3440394e373333
     },
     {
         "name": "lifan",
@@ -129,7 +153,11 @@
     },
     {
         "name": "mercedes-benz",
+<<<<<<< HEAD
         "cars_count": 3370
+=======
+        "cars_count": 3373
+>>>>>>> 3aca936eff1718dfd24ce305ca3440394e373333
     },
     {
         "name": "mini",
@@ -137,7 +165,11 @@
     },
     {
         "name": "mitsubishi",
+<<<<<<< HEAD
         "cars_count": 1161
+=======
+        "cars_count": 1162
+>>>>>>> 3aca936eff1718dfd24ce305ca3440394e373333
     },
     {
         "name": "nissan",
@@ -145,11 +177,15 @@
     },
     {
         "name": "opel",
+<<<<<<< HEAD
         "cars_count": 4005
+=======
+        "cars_count": 4004
+>>>>>>> 3aca936eff1718dfd24ce305ca3440394e373333
     },
     {
         "name": "peugeot",
-        "cars_count": 2658
+        "cars_count": 2660
     },
     {
         "name": "pontiac",
@@ -157,7 +193,7 @@
     },
     {
         "name": "porsche",
-        "cars_count": 160
+        "cars_count": 161
     },
     {
         "name": "proton",
@@ -181,7 +217,11 @@
     },
     {
         "name": "skoda",
+<<<<<<< HEAD
         "cars_count": 1221
+=======
+        "cars_count": 1222
+>>>>>>> 3aca936eff1718dfd24ce305ca3440394e373333
     },
     {
         "name": "ssangyong",
@@ -205,11 +245,19 @@
     },
     {
         "name": "volkswagen",
+<<<<<<< HEAD
         "cars_count": 6746
     },
     {
         "name": "volvo",
         "cars_count": 1144
+=======
+        "cars_count": 6751
+    },
+    {
+        "name": "volvo",
+        "cars_count": 1145
+>>>>>>> 3aca936eff1718dfd24ce305ca3440394e373333
     },
     {
         "name": "газ",

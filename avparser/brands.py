@@ -39,4 +39,8 @@ brands = "brands.json"
 with open(brands, 'w', encoding='utf-8') as json_file:
     json.dump(list_brands, json_file, ensure_ascii = False, indent =4)
 
+<<<<<<< HEAD
 print('File dumped!!!')
+=======
+print('File dumped!!!')
+>>>>>>> 3aca936eff1718dfd24ce305ca3440394e373333
