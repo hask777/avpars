@@ -1,0 +1,54 @@
+[
+    {
+        "car_year": 2019,
+        "car_count": 3
+    },
+    {
+        "car_year": 2018,
+        "car_count": 6
+    },
+    {
+        "car_year": 2017,
+        "car_count": 1
+    },
+    {
+        "car_year": 2011,
+        "car_count": 2
+    },
+    {
+        "car_year": 2010,
+        "car_count": 5
+    },
+    {
+        "car_year": 2009,
+        "car_count": 1
+    },
+    {
+        "car_year": 2007,
+        "car_count": 2
+    },
+    {
+        "car_year": 2005,
+        "car_count": 1
+    },
+    {
+        "car_year": 2004,
+        "car_count": 1
+    },
+    {
+        "car_year": 2003,
+        "car_count": 3
+    },
+    {
+        "car_year": 2002,
+        "car_count": 3
+    },
+    {
+        "car_year": 1999,
+        "car_count": 1
+    },
+    {
+        "car_year": 1988,
+        "car_count": 1
+    }
+]

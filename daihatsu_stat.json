@@ -1,0 +1,54 @@
+[
+    {
+        "car_year": 2010,
+        "car_count": 1
+    },
+    {
+        "car_year": 2009,
+        "car_count": 2
+    },
+    {
+        "car_year": 2008,
+        "car_count": 2
+    },
+    {
+        "car_year": 2003,
+        "car_count": 1
+    },
+    {
+        "car_year": 2002,
+        "car_count": 2
+    },
+    {
+        "car_year": 2001,
+        "car_count": 2
+    },
+    {
+        "car_year": 1999,
+        "car_count": 3
+    },
+    {
+        "car_year": 1998,
+        "car_count": 9
+    },
+    {
+        "car_year": 1997,
+        "car_count": 4
+    },
+    {
+        "car_year": 1996,
+        "car_count": 1
+    },
+    {
+        "car_year": 1994,
+        "car_count": 2
+    },
+    {
+        "car_year": 1993,
+        "car_count": 1
+    },
+    {
+        "car_year": 1986,
+        "car_count": 1
+    }
+]

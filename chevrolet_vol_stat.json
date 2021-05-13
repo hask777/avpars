@@ -1,0 +1,122 @@
+[
+    {
+        "car_volume": 6.2,
+        "car_count": 6
+    },
+    {
+        "car_volume": 6.0,
+        "car_count": 1
+    },
+    {
+        "car_volume": 5.7,
+        "car_count": 4
+    },
+    {
+        "car_volume": 5.3,
+        "car_count": 26
+    },
+    {
+        "car_volume": 5.1,
+        "car_count": 1
+    },
+    {
+        "car_volume": 5.0,
+        "car_count": 1
+    },
+    {
+        "car_volume": 4.8,
+        "car_count": 2
+    },
+    {
+        "car_volume": 4.3,
+        "car_count": 8
+    },
+    {
+        "car_volume": 4.2,
+        "car_count": 18
+    },
+    {
+        "car_volume": 3.7,
+        "car_count": 1
+    },
+    {
+        "car_volume": 3.6,
+        "car_count": 5
+    },
+    {
+        "car_volume": 3.5,
+        "car_count": 2
+    },
+    {
+        "car_volume": 3.4,
+        "car_count": 7
+    },
+    {
+        "car_volume": 3.2,
+        "car_count": 6
+    },
+    {
+        "car_volume": 3.1,
+        "car_count": 2
+    },
+    {
+        "car_volume": 3.0,
+        "car_count": 3
+    },
+    {
+        "car_volume": 2.9,
+        "car_count": 1
+    },
+    {
+        "car_volume": 2.5,
+        "car_count": 3
+    },
+    {
+        "car_volume": 2.4,
+        "car_count": 57
+    },
+    {
+        "car_volume": 2.2,
+        "car_count": 16
+    },
+    {
+        "car_volume": 2.0,
+        "car_count": 40
+    },
+    {
+        "car_volume": 1.8,
+        "car_count": 63
+    },
+    {
+        "car_volume": 1.7000000000000002,
+        "car_count": 27
+    },
+    {
+        "car_volume": 1.6,
+        "car_count": 85
+    },
+    {
+        "car_volume": 1.5,
+        "car_count": 109
+    },
+    {
+        "car_volume": 1.4,
+        "car_count": 145
+    },
+    {
+        "car_volume": 1.2,
+        "car_count": 27
+    },
+    {
+        "car_volume": 1.0,
+        "car_count": 9
+    },
+    {
+        "car_volume": 0.8,
+        "car_count": 7
+    },
+    {
+        "car_volume": 0.0,
+        "car_count": 47
+    }
+]

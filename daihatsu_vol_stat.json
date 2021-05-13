@@ -1,0 +1,34 @@
+[
+    {
+        "car_volume": 2.8,
+        "car_count": 1
+    },
+    {
+        "car_volume": 2.0,
+        "car_count": 1
+    },
+    {
+        "car_volume": 1.6,
+        "car_count": 6
+    },
+    {
+        "car_volume": 1.5,
+        "car_count": 4
+    },
+    {
+        "car_volume": 1.3,
+        "car_count": 5
+    },
+    {
+        "car_volume": 1.0,
+        "car_count": 11
+    },
+    {
+        "car_volume": 0.9,
+        "car_count": 1
+    },
+    {
+        "car_volume": 0.8,
+        "car_count": 2
+    }
+]

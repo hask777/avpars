@@ -1,0 +1,58 @@
+[
+    {
+        "car_year": 2021,
+        "car_count": 5
+    },
+    {
+        "car_year": 2020,
+        "car_count": 24
+    },
+    {
+        "car_year": 2019,
+        "car_count": 33
+    },
+    {
+        "car_year": 2018,
+        "car_count": 29
+    },
+    {
+        "car_year": 2017,
+        "car_count": 3
+    },
+    {
+        "car_year": 2016,
+        "car_count": 15
+    },
+    {
+        "car_year": 2015,
+        "car_count": 9
+    },
+    {
+        "car_year": 2014,
+        "car_count": 30
+    },
+    {
+        "car_year": 2013,
+        "car_count": 7
+    },
+    {
+        "car_year": 2012,
+        "car_count": 2
+    },
+    {
+        "car_year": 2011,
+        "car_count": 1
+    },
+    {
+        "car_year": 2010,
+        "car_count": 1
+    },
+    {
+        "car_year": 2008,
+        "car_count": 12
+    },
+    {
+        "car_year": 2007,
+        "car_count": 5
+    }
+]

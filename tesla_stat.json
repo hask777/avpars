@@ -1,0 +1,38 @@
+[
+    {
+        "car_year": 2021,
+        "car_count": 5
+    },
+    {
+        "car_year": 2020,
+        "car_count": 5
+    },
+    {
+        "car_year": 2019,
+        "car_count": 14
+    },
+    {
+        "car_year": 2018,
+        "car_count": 23
+    },
+    {
+        "car_year": 2017,
+        "car_count": 2
+    },
+    {
+        "car_year": 2016,
+        "car_count": 13
+    },
+    {
+        "car_year": 2015,
+        "car_count": 7
+    },
+    {
+        "car_year": 2014,
+        "car_count": 8
+    },
+    {
+        "car_year": 2013,
+        "car_count": 8
+    }
+]
